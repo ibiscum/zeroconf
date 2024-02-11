@@ -1,3 +1,5 @@
+[![unittest](https://github.com/ibiscum/zeroconf/actions/workflows/go-test.yml/badge.svg)](https://github.com/ibiscum/zeroconf/actions/workflows/go-test.yml)
+
 ZeroConf: Service Discovery with mDNS
 =====================================
 ZeroConf is a pure Golang library that employs Multicast DNS-SD for
