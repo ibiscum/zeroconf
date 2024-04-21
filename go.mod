@@ -6,7 +6,7 @@ require (
 	github.com/cenkalti/backoff v2.2.1+incompatible
 	github.com/miekg/dns v1.1.58
 	github.com/pkg/errors v0.9.1
-	golang.org/x/net v0.22.0
+	golang.org/x/net v0.23.0
 )
 
 require (
